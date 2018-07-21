@@ -1,0 +1,90 @@
+body{direction:rtl}
+.header-exts{float:left}
+p.top-address{float:right}
+p.top-address i{margin-left:5px;margin-right:0}
+.info > strong{padding-left:0;padding-right:10px}
+.info:hover > img{-webkit-transform:translateX(-30px) scale(1.4);-moz-transform:translateX(-30px) scale(1.4);-ms-transform:translateX(-30px) scale(1.4);-o-transform:translateX(-30px) scale(1.4);transform:translateX(-30px) scale(1.4)}
+nav{float:right}
+nav > ul > li{float:right}
+.round-btn{float:left}
+.logo{float:right}
+img{float:right}
+.header-contact{float:left}
+.owl-carousel{direction:ltr}
+.owl-item{direction:rtl}
+.toggle-item > h2:before{left:0;right:auto}
+.feature li{padding-left:0;padding-right:30px}
+.feature li:before{left:auto;right:0}
+.counter-inner{padding-left:0;padding-right:40px}
+.meta > li{float:right;margin-left:20px;margin-right:0}
+.meta > li i{margin-left:5px;margin-right:0}
+.provide-news:before, .provide-news:after{left:auto;right:0}
+.news-img > span{left:auto;right:13px}
+.news > img{padding-left:20px;padding-right:0}
+.dark-socials > a{float:right;margin-left:10px;margin-right:0}
+.about-widget > ul li i{margin-left:10px;margin-right:0}
+header.style2 .info:before{left:5px;right:auto}
+header.style2 .header-contact .row > div:last-child .info:before{display:block}
+header.style2 .header-contact .row > div:first-child .info:before{display:none}
+.fancy-inner{padding-left:0;padding-right:30px}
+.why-we-text{padding-left:0;padding-right:15px}
+.social > a{-webkit-transform:translateX(50px);-moz-transform:translateX(50px);-ms-transform:translateX(50px);-o-transform:translateX(50px);transform:translateX(50px)}
+.provide-details{padding:30px 85px 30px 200px}
+.mod-inner{padding-left:0;padding-right:20px}
+.modern-service > i{left:50px;right:auto}
+.provide-modern-services > h2{padding-left:90px;padding-right:0}
+.provide-modern-services > p{padding-left:70px;padding-right:0}
+.testimonial-slide > img{left:auto;right:30px}
+.client-info{float:left}
+.testimonial-slide:before{left:auto;right:50px}
+.elegent-title:before{left:auto;right:0}
+.provide-form{padding:20px 50px 20px 200px}
+.widget-title:before{left:auto;right:0}
+.creative-slider{direction:ltr}
+.expertise .provide-services{padding-left:0;padding-right:30px}
+.inn-service > h3{padding-left:0;padding-right:20px}
+.info-detail{padding-left:30px;padding-right:0}
+.provide-infos{padding-left:40px;padding-right:0}
+.product-information .provide-accordion.toggle{padding-left:0;padding-right:40px}
+.breadcrumbs li:before{left:-6px;right:auto}
+.col-md-9 .counter-inner{padding-left:0;padding-right:20px}
+.blog-single ul li{float:right;padding:5px 25px 5px 0}
+.blog-single ul li:before{left:auto;right:0}
+.author-name{padding-left:0;padding-right:30px}
+.provide-author .colored-socials{left:0;right:auto}
+.comment{padding-left:0;padding-right:65px}
+.comment-avatar{left:auto;right:0}
+.provide-comments ul ul{padding-left:0;padding-right:100px}
+.comment-details strong{float:right}
+.comment-time{float:left}
+.news-description{padding-left:0;padding-right:30px}
+.news-description h3{padding-left:40px;padding-right:0}
+.latest-news.list-style .news-description .meta:before, .latest-news.list-style .news-description .meta:after{left:auto;right:0}
+.add i{margin-left:12px;margin-right:0}
+.project-intro{padding-left:0;padding-right:30px}
+.project-strategies ul li{padding-left:0;padding-right:28px}
+.project-strategies ul li:before{left:auto;right:0}
+.project-description{padding-left:30px;padding-right:0}
+.project-description a.yellow-btn{float:right}
+.search-result form.search button{left:0;right:auto}
+.team-detail{padding-left:0;padding-right:60px}
+.callback-form{padding-left:0;padding-right:75px}
+.responsive-menu ul li.menu-item-has-children > a:before{left:10px;right:auto;top:14px}
+.responsive-menu ul li ul{padding-left: 0; padding-right:20px}
+.sidepost-inner{padding-left: 0; padding-right: 15px}
+.side-post i{float: right}
+.comment-details .comment-author{float:right}
+.widget_search form button{right:auto;left:0}
+
+
+@media (max-width:980px){
+.callback-form{padding:0}
+.latest-news .row > div{text-align:right}
+.comment{padding:20px}
+.provide-form{padding:30px}
+.news-description{text-align:right!important}
+}
+@media (max-width:767px){
+.news-description{padding-right:0}
+}
+

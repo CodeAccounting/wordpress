@@ -1,0 +1,194 @@
+.topbar,
+.menubar,
+.coloured:before,
+.option-set li a:before,
+.provide-project:before,
+.dark-btn:hover,
+.price-table:hover .dark-btn,
+.team-carousel .owl-nav > div:hover:before,
+.fancy-social > a:hover,
+.provide-bar .progress .progress-bar,
+.news-img > span,
+.provide-news:after,
+.color-btn,
+.dark-socials > a:hover,
+header.style2 .menubar .container,
+header.style2 .socials > a,
+header.style4 nav,
+header.style3 .top-list,
+.fancy-name:before,
+.fancy-title:after,
+.social > a:before,
+.products-filters .option-set > li a,
+.provide-accordion.style2 .toggle-item h2.active,
+.huge-btn,
+.modern-services-carousel .owl-dots .owl-dot.active,
+.testimonials-carousel .owl-dots .owl-dot.active,
+.elegent-title:before,
+.provide-form form button,
+.provide-accordion.style3 .toggle-item > h2.active,
+.pro-info:hover span i,
+.newsletter-form button,
+.light-socials > a:hover,
+.option-set li a.view-all-projects,
+.select2-container--default .select2-results__option--highlighted[aria-selected],
+.latest-news.list-style .news-description .meta:after,
+.blog-single ul li:before,
+.page-contents ul li:before,
+.comment-details ul li:before,
+.responsive-topbar,
+.latest-news.list-style .provide-news.sticky:after,
+.nav-links > div a,
+.post-password-form input[type="submit"],
+.widget ul li.recentcomments span,
+.rss-date,
+.vc_grid-filter.vc_grid-filter-color-grey > .vc_grid-filter-item.vc_active,
+.provide-flickr a:before,
+.blu-skin,
+.theme-btn,
+.del-cart-item,
+.close-search,
+.open-search:hover,
+.product-carousel .slick-prev.slick-arrow,
+.product-carousel .slick-next.slick-arrow,
+.widget.widget_price_filter form .button,
+.widget .tagcloud a,
+.simpleselect .options .option.active,
+.widget  .woocommerce-product-search input[type=submit],
+.woocommerce #review_form #respond .form-submit input,
+.woocommerce .product-thumb:hover > a,
+.woocommerce button.button.alt,
+.woocommerce button.button.alt:hover,
+.portfolio-infos i{
+	background-color:#00abc9;
+}
+
+.button.wc-forward,
+.woocommerce-MyAccount-orders .woocommerce-button,
+.widget_shopping_cart_content ul li a.remove_from_cart_button,
+.widget.widget_price_filter .ui-slider-handle,
+.widget.widget_price_filter .ui-slider-range{
+	background-color:#00abc9 !important;
+}
+
+
+
+a:hover,
+a:active,a:focus,
+.feature li:before,
+.option-set li a.selected,
+.meta li.posted-by a,
+.callback-form > h3 i,
+.mod-inner > h3,
+.client-info > h5,
+.aboutme-widget span,
+.simple-social a:hover,
+.provide-pagination ul li a:hover,
+.project-strategies ul li:before,
+.project-description li span,
+.newsletter > form button,
+.error-page h1,
+.search-result h3 span,
+.provide-pagination ul li span,
+.single-product-detail .prices del,
+.product_list_widget li:hover a,
+p a,
+.product-item:hover .product-info h3 a,
+.widget_shopping_cart_content ul li .quantity,
+.product-categories > li:hover > a,
+.product-categories > li > ul > li:hover > a,
+.woocommerce-variation-price .price del,
+.woocommerce-error:before,
+.woocommerce-message::before,
+.product-info del,
+.top-info li i,
+.info > i{
+	color:#00abc9;
+}
+
+.price-table:hover,
+.newsletter,
+.callback:before,
+.fancy-title:before,
+.provide-accordion.style3 .toggle-item > h2.active,
+.pro-info:hover span i,
+.provide-subscribe a:hover,
+.creative-slider,
+.creative-slider.style3 .metis .tp-bullet,
+.responsive-logobar,
+.provide-pagination ul li span,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+.woocommerce-message,
+header.style3 .top-list:before,
+header.style3 .topbar,
+header.style4{
+	border-color:#00abc9;
+}
+.woocommerce-info,
+.woocommerce.widget,
+.woocommerce-error,
+.widget-wrapper{
+	border-top-color:#00abc9;
+}
+
+
+
+nav > ul > li > a:before,
+.socials > a:hover,
+.round-btn,
+.project-links > a,
+.widget-title:before,
+.contact-form button,
+.inn-service > span i,
+.morris-hover.morris-default-style,
+.news-img > span.style2,
+.yellow-btn,
+.project-btn,
+.layer3,
+.menu-button,
+.close-menu,
+.thm-skin,
+.lgt-skin:hover,
+.toggle-style4 .toggle-item > h2.active,
+.toggle-style6 .toggle-item > h2.active > i,
+.toggle-style7 .toggle-item > h2 > i,
+.tabs-styles .nav > li.active > a,
+.tabs2 .nav > li:before,
+.thm-social li a,
+nav > ul > li:hover > a:before,
+.dropcap-style11:before{
+	background-color:#eeb013;
+}
+
+
+.widget.widget_price_filter .ui-slider-horizontal{
+	background-color:#eeb013 !important;
+}
+
+nav ul ul li:hover > a,
+nav > ul ul li.has-children:hover:before,
+nav > ul > li:hover,
+.header-search > a:hover,
+.provide-project.style2 .project-links a:hover,
+.post-by a,
+.comment-details .comment-author,
+.add i,
+.layer1 i,
+.responsive-menu ul li.menu-item-has-children > a:before,
+.thm-bor-skin,
+.toggle-style3 .toggle-item > h2.active,
+.toggle-style4 .toggle-item > h2.active > i,
+.thm-social li a:hover, 
+.overlay-meta > li:after,
+.overlay-meta > li{
+	color:#eeb013;
+}
+
+.round-btn,
+.morris-hover.morris-default-style,
+.thm-bor-skin,
+.toggle-style7 .toggle-item.activate > h2,
+.tabs2 .tab-content .tab-pane,
+.thm-social li a{
+	border-color:#eeb013;
+}

@@ -1,0 +1,12 @@
+0000.000 (1) Opened log file at time: Mon, 09 Jul 2018 09:58:20 +0000 on http://codeaccounting.wpengine.com
+0000.004 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.11 WP: 4.9.7 PHP: 7.0.30-0ubuntu0.16.04.1 (apache2handler, Linux pod-120352 3.13.0-149-generic #199-Ubuntu SMP Thu May 17 10:12:50 UTC 2018 x86_64) MySQL: 5.7.22 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 70.9M | 48M) multisite: N openssl: OpenSSL 1.0.2g  1 Mar 2016 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.008 (1) Free space on disk containing Updraft's temporary directory: Unknown
+0000.012 (1) This backup task (075895d69696) is either complete or began over 2 days ago: ending (1531130300.16, ) (existing jobdata keys: )
+0000.000 (1) Opened log file at time: Mon, 09 Jul 2018 10:00:18 +0000 on https://codeaccounting.wpengine.com
+0000.006 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.11 WP: 4.9.7 PHP: 7.0.30-0ubuntu0.16.04.1 (apache2handler, Linux pod-120352 3.13.0-149-generic #199-Ubuntu SMP Thu May 17 10:12:50 UTC 2018 x86_64) MySQL: 5.7.22 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 70.4M | 74M) multisite: N openssl: OpenSSL 1.0.2g  1 Mar 2016 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.011 (1) Free space on disk containing Updraft's temporary directory: Unknown
+0000.015 (1) This backup task (075895d69696) is either complete or began over 2 days ago: ending (1531130418.24, ) (existing jobdata keys: )
+0000.000 (1) Opened log file at time: Mon, 09 Jul 2018 10:00:19 +0000 on https://codeaccounting.wpengine.com
+0000.010 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.11 WP: 4.9.7 PHP: 7.0.30-0ubuntu0.16.04.1 (apache2handler, Linux pod-120352 3.13.0-149-generic #199-Ubuntu SMP Thu May 17 10:12:50 UTC 2018 x86_64) MySQL: 5.7.22 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 70.4M | 30M) multisite: N openssl: OpenSSL 1.0.2g  1 Mar 2016 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.016 (1) Free space on disk containing Updraft's temporary directory: Unknown
+0000.022 (1) This backup task (075895d69696) is either complete or began over 2 days ago: ending (1531130419.12, ) (existing jobdata keys: )

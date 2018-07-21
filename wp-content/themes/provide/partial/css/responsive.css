@@ -1,0 +1,219 @@
+@media (max-width:1200px){	
+.detailed-title{padding:0 100px}
+.service{padding:0}
+.white-title{font-size:24px;line-height:35px}
+.content p{line-height:24px;font-size:14px;letter-spacing:0}
+.about-us > h2{font-size:25px;line-height:30px;margin-bottom:15px}
+.about-us > p{font-size:13px;line-height:25px}
+.provide-skills{margin-top:20px}
+.provide-bar{margin-bottom:15px}
+.provide-bar > strong{margin-bottom:5px}
+.counter-inner{padding-left:30px}
+.counter-inner > strong{font-size:40px}
+.counter-inner > span{font-size:17px}
+.callback > img{width:320px;margin:-50px 0 5px}
+.callback-form{padding-left:30px}
+.callback-form > form{margin:0}
+.callback-form > form .row{margin:0 -5px}
+.callback-form > form .row > div{padding:0 5px}
+.dark-socials > a{margin-right:5px}	 
+.project-hover h3{padding:0 10px;font-size:16px}
+.feature li{padding-left:20px;font-size:13px}	 
+header.style2 .info:before{right:-8px}
+.info strong span{font-size:12px}
+.service-icon span{width: 67px;height: 67px;padding:0 10px}
+.fancy-inner{padding-left:15px}
+.fancy-inner h3{font-size:18px}
+.why-we > img{width:560px}
+.why-we{padding: 0 50px;margin: 0 0 -16px}
+.why-we-text > h3{font-size: 22px;ine-height: 26px;margin-bottom:10px}
+.why-we-text .color-btn{margin-top:20px}
+.why-we-text > p{font-size: 13px;line-height: 21px}
+header.style2 .info:before{right:-8px}
+.info strong span{font-size:12px}
+.projects.style2 .row{margin:0 -3px}
+.projects.style2 .row .masonary > div{padding:0 3px}
+.projects.style2 .provide-project{margin-bottom:6px}+
+.special-mockup{margin-right:-70px;margin-top:0}
+.provide-form > form textarea{min-height:100px}
+.provide-form > form input, .provide-form > form textarea{margin-bottom:10px}
+.provide-form{padding:20px 30px 20px 30px}
+.elegent-title {padding-bottom:10px;font-size:25px}
+.provide-form > p{font-size: 13px;line-height: 19px;margin-bottom: 10px;letter-spacing:0}
+.provide-details{padding:30px}
+.expertise .service{margin-bottom:20px;padding:0}
+.provide-project-detail img{width:510px}
+.theme-layout.boxed{width:1010px}
+nav > ul > li > a{padding:25px 15px}
+}
+
+
+@media (max-width:980px){
+header{display:none}
+.responsive-header{display:block}
+.detailed-title{padding:0}
+.detailed-title h2{font-size:25px;line-height:25px}	
+.provide-services .row > div{float:left;width:50%}
+.provide-features .row > div{float:left;width:50%}
+.masonary > div{float:left;width:50%}
+.provide-pricings{text-align:center}
+.provide-pricings .row > div{float:none;display:inline-block;width:50%;margin:0 -1px}
+.team-carousel-wrapper{float:left;width:100%}
+.about-us{float:left;width:100%;margin:0!important;padding:30px}
+.provide-counters{padding:0 0 30px}
+.provide-counters .row > div{float:left;width:50%}
+.newsletter{position:relative;float:left;width:100%;bottom:0;left:0;
+-webkit-transform:translate(0);
+-moz-transform:translate(0);
+-ms-transform:translate(0);
+-o-transform:translate(0);
+transform:translate(0);
+}	
+.latest-news{text-align:center}
+.latest-news .row > div{display:inline-block;width:50%;margin:0 -1px;text-align:left;}
+.callback > img{display:unset;margin:40px 0 0;max-width:100%}
+.callback-form{display:unset;float:left;padding:0;margin:30px 0}
+.provide-fancy-features{text-align:center}
+.provide-fancy-features .row > div{display: inline-block;width: 50%;margin: 0 -2px -5px;text-align:left}
+.provide-fancy-features .row > div{padding:0}
+.provide-fancy-services .row > div{float:left;width:50%}
+.why-we > img{display: unset;width: auto;max-width:100%}
+.why-we-text{display:unset;float:left;width:100%;margin:50px 0 0;padding:0}
+.why-we{margin:0;padding:0 50px 50px}
+.provide-team .row > div{float:left;width:50%}
+.provide-video{display: unset;float: left;width: 100%}
+.provide-details{display: unset;float: left;width: 100%;padding: 30px}
+.provide-details .provide-accordion{margin:20px 0 0}
+.special-mockup{margin:0;text-align:center;float:left;width:100%}
+.special-mockup > img{width:auto;max-width:100%;float:none;margin-bottom:-3px}
+.social-contact{display: unset;float: left;width:100%}
+.provide-form{display: unset;float: left;width: 100%;padding:30px}
+.simple-title > p br{float:left}
+.innovative-services .row > div{float:left;width:50%}
+.parallax-title{width: 100%;margin:0 0 40px}
+.provide-infos{display: unset;float: left;width:100%;padding:0}
+.product-information .mockup{display: unset;float:left;width:100%;margin:50px 0}
+.product-information .provide-accordion.toggle{display: unset;float: left;width:100%;padding:0}
+.expertise .provide-services{display:unset;float:left;width:100%;padding:0;margin-top:60px}
+.pro-col{float:left;width:100%;margin-bottom:40px}
+.pro-col:last-child{margin:0}
+.provide-flickr .row > div{width:16.666%;float:left}
+.latest-news.style2 .provide-news > h3{font-size:18px;text-align:left}
+.news-description{text-align:left}
+.provide-branches .row > div{float:left;width:50%}
+.provide-project-detail img{display:unset;float:left;width:100%}
+.project-intro {display: unset; float: left; width: 100%;padding:30px 0 0}
+.project-description{display: unset; float: left; width: 100%; padding: 0; margin-bottom: 40px}
+.project-info-img{display: unset; float: left; width: 100%}
+.project-info-img img{max-width: 100%}
+.team-img{display:unset;float:left;width:100%}
+.team-detail{display:unset;float:left;width:100%;padding:50px 0 0}
+.pro-col .title{margin:0}
+.pro-col .fancy-title{margin:0}
+.pagetop.extra-gap{padding:70px 0}
+.theme-layout.boxed{width:760px}
+.callback-form > form .row > div{float:left;width:100%}
+.provide-form form .row > div{float:left;width:100%}
+
+.creative-header,
+.header-icon{display:none}
+
+.button-sets{width:50%}
+.toggels-page .row > div{float:left;margin:0 0 40px;width:100%}
+.toggels-page .row > div:last-child{margin:0}
+.progressbars-page .row > div{float:left;margin:0 0 90px;width:100%}
+.progressbars-page .row > div:last-child{margin:0}
+.progressbars-style3 > ul > li{max-width:50%}
+.tabs4 .nav-tabs{float:left;margin:0 0 40px;max-width:none;width:100%}
+.tabs4 .tab-content{display:unset;float:left;width:100%}
+
+}
+
+
+@media (max-width:767px){
+.block .container,
+.container{padding:0 15px}
+.option-set li{padding:0 10px;letter-spacing:0.5px}
+.projects {padding:0 10px 10px}
+.callback{padding:0 15px}
+.logos{text-align:center}
+.logos > li{float:none;display:inline-block;margin:0 -1px 10px;width:33.334%!important;}
+.option-set li{margin:0 0 10px}
+.option-set li a{padding-bottom:5px}
+.price-table{padding:70px 25px 25px}
+.management-carousel .owl-dots{left:0;right:auto;top:100%;width:100%;padding-top:10px;text-align:center;
+    -webkit-transform:translate(0);
+    -moz-transform:translate(0);
+    -ms-transform:translate(0);
+    -o-transform:translate(0);
+    transform:translate(0);
+}
+.management-carousel .owl-dots .owl-dot{float:none;display:inline-block;margin:0 5px}    
+.provide-subscribe{padding:0}
+.newsletter-form button{position: relative;float: left;width: 100%;right: 0;top: 0;border: 0;border-radius: 0}
+.newsletter-form{height: auto;padding: 0}
+.newsletter-form input{height:40px;padding:0 20px;text-align:center}
+.creative-slider{border-width:3px}
+.responsive-menu .header-contact .info{width:50%}
+.provide-flickr .row > div{width:25%}
+.provide-comments ul ul{padding:0}
+.provide-author img{display:table}
+.author-name{float:left;width:100%;padding:20px 0 0}
+.provide-author .colored-socials{position:relative;float:left;width:100%;margin-top:20px;margin-left:-10px}
+.provide-author{padding:0}
+.comment{padding:0;border:2px solid #ececec;padding:20px}
+.comment-avatar{position:relative;display:table}
+.comment-details{padding:0;border:0;margin-top:20px}
+.news-description{text-align:left}
+.latest-news.list-style .provide-news .news-img{display:unset}
+.news-description{display: unset;float:left;width:100%;padding:30px 0 0}
+.latest-news.list-style .provide-news .news-img img{width:100%}
+.branch ul li{width:100%}
+.error-page{padding:0}
+.error-page h1{font-size:70px;margin-bottom:20px}
+.block{padding:70px 0}
+.white-title{font-size:18px;line-height:24px;margin:0}
+.title > h2{font-size:24px;line-height:24px}
+.about-us > h2{font-size:20px}
+.fancy-title h2{font-size:24px;line-height:25px}
+.provide-details > h3{font-size:20px}
+.side-title > h2{font-size:20px}
+.simple-title h2{font-size:25px}
+.rev-btn{font-size: 9px!important}
+.theme-layout.boxed{width:90%}
+.product-information .mockup img{max-width:100%}
+
+.tabs-styles .nav > li{float: left; margin: 0; width: 100}
+.button-sets{width:100%}
+.tabs1 .tab-content{padding:30px}
+.tabs3.tabs-styles{padding:30px}
+.tabs4{padding:30px}
+}
+
+@media (max-width:480px){
+.provide-services .row > div{width:100%}
+.provide-features .row > div{width:100%}
+.masonary > div{width:100%}
+.provide-pricings .row > div{width:100%}
+.provide-counters .row > div{width:100%}
+.latest-news .row > div{width:100%}
+.logos > li{width:50%!important;}
+.provide-fancy-features.overlap{margin:0}
+.provide-fancy-features .row > div{width:100%;margin:0}
+.provide-fancy-services .row > div{width:100%}
+.why-we{padding:0 30px 30px}
+.provide-team .row > div{width:100%}
+.provide-modern-services > h2{padding:0;font-size:20px;line-height:30px}
+.provide-modern-services > p{padding:0;line-height:24px}
+.innovative-services .row > div{width:100%}
+.responsive-menu .header-contact .info{width:100%}
+.provide-flickr .row > div{width:33.334%}
+.provide-branches .row > div{width:100%}
+.layer1{font-size:15px!important;line-height:20px!important;letter-spacing:0!important}
+.layer2{font-size:11px!important;line-height:10px!important;letter-spacing:0!important;}
+.layer3{font-size:7px!important;letter-spacing:0!important;padding:8px!important}
+.layer4{font-size:10px!important;line-height:10px!important;letter-spacing:0!important}
+.layer1 i{font-size:15px!important;line-height:20px!important;letter-spacing:0!important}
+.logos > li{margin-bottom:40px;width:100%!important}
+}
+

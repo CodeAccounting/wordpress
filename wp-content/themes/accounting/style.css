@@ -1,0 +1,126 @@
+/*
+Theme Name: accounting
+Theme URI: http://themeforest.net/user/Anps/portfolio
+Description: It can be used for business and corporate sites, your portfolio site or customize it to suit your wishes. Easy to use and clean code will be a simple task to get you up and running in no time. And with our support you cannot go wrong.
+Author: AnpsThemes
+Author URI: http://themeforest.net/user/Anps/portfolio
+Version: 3.0.5
+License: GNU General Public License
+License URI: license.txt
+Tags: responsive-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, left-sidebar, custom-colors, custom-header, custom-menu, theme-options, translation-ready, threaded-comments
+*/
+
+h4.testimonial-user {
+  font-size: 21px !important;
+}
+.pricing-table header .currency, .pricing-table header .date {
+  color: #fff;
+}
+body .wpcf7-form input {
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+body .get-a-quote .wpcf7-submit {
+  color: #008000;
+  display: block;
+  float: none;
+  margin: 0 auto;
+}
+.wpcf7 .wpcf7-submit {
+  color: #008000;
+  border: 1px solid #008000;
+}
+.team > header {
+  height: 300px;
+}
+.team {
+  margin: 0 auto;
+  max-width: 300px;
+  width: 100%;
+}
+body.home .site-navigation a {
+  color: #008000;
+}
+.site-navigation a:hover, .site-navigation a:focus, .site-navigation .current-menu-item > a, body .site-navigation a:hover, body .site-navigation a:focus, body .site-navigation .current-menu-item > a {
+  color: #008000 !important;
+}
+.site-navigation .menu-item-depth-0:not(.megamenu) > .sub-menu {
+  background: #ffffff;
+}
+.site-search-toggle:focus, .site-search-toggle:hover {
+  color: #008000;
+}
+.pricing-table .btn {
+  border: 1px solid #008000;
+}
+#comments, .comment-list {
+  display: none;
+}
+.socialize li {
+  font-size: 25px !important;
+}
+.btn.style-1, .vc_btn.style-1 {
+  background-color: #008000 !important;
+}
+.btn.style-1:hover, .vc_btn.style-1:hover {
+  background-color: #ffffff !important;
+}
+.fa.fa-google-plus-square {
+  color: #bd2e1e;
+}
+.fa.fa-facebook-square {
+  color: #3b579d;
+}
+.fa.fa-twitter-square {
+  color: #6faedc;
+}
+.fa.fa-linkedin-square {
+  color: #0077b5;
+}
+.woo-header-cart .cart-contents > i, .site-search-toggle {
+  color: #008000 !important;
+}
+.post.style-2 .post-meta li.post-meta-comments, #commentform {
+  display: none;
+}
+.site-logo {
+  width: 290px;
+}
+.page-id-9 .btn.btn-sm.style-4, body .btn.style-4, body .vc_btn.style-4 {
+  color: #008000 !important;
+}
+.team_social {
+  margin: 10px 0;
+  text-align: center;
+}
+.team_social > a {
+  font-size: 25px;
+  margin: 0 5px;
+}
+.postid-2632 .post header img {
+  width: auto;
+}
+.post.post-2632 header img.attachment-large {
+  width: auto;
+}
+#yelp > br {
+  display: none;
+}
+
+/***********************************Media Quaries************************************/
+
+@media (max-width: 991px) {
+.woo-header-cart .cart-contents > i, .site-search-toggle {
+    color: #ffffff !important;
+}
+.site-footer .col-md-3 {
+    width: 100%;
+}
+
+}
+
+@media (max-width: 405px) {
+.site-logo {
+  width: 190px;
+}
+}

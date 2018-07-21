@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "provide";
+    src: url("../../fonts/provide.eot");
+    src: url("../../fonts/provide.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/provide.woff") format("woff"),
+    url("../../fonts/provide.ttf") format("truetype"),
+    url("../../fonts/provide.svg#provide") format("svg");
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+[data-icon]:before {
+    font-family: "provide" !important;
+    content: attr(data-icon);
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="dashicons-provide-"]:before,
+[class*=" dashicons-provide-"]:before {
+    font-family: "provide" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.dashicons-provide-branches:before {
+    content: "\61";
+}
+
+.dashicons-provide-portfolio:before {
+    content: "\62";
+}
+
+.dashicons-provide-pricetable:before {
+    content: "\63";
+}
+
+.dashicons-provide-team:before {
+    content: "\64";
+}
+
+.dashicons-provide-testimonial:before {
+    content: "\65";
+}
